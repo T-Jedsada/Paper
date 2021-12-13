@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+![Preview image](https://raw.githubusercontent.com/akshay2211/Paper/master/media/banner.webp)
 
-You can use the [editor on GitHub](https://github.com/akshay2211/Paper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Paper - A Minimal Notes App
+[![](https://androidweekly.net/issues/issue-496/badge?style=flat-square)](https://androidweekly.net/issues/issue-496)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A minimal notes application in [Jetpack Compose](https://developer.android.com/jetpack/compose) with [MVVM architecture](https://developer.android.com/jetpack/guide).
+Built with components like DataStore, Coroutines, ViewModel, LiveData, Room, Navigation-Compose, Coil, koin etc.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### This App showcases:
 
-```markdown
-Syntax highlighted code block
+* UI state management
+* Basic Material Design theming (Light & Dark)
+* Integration with Architecture Components: Navigation, ViewModel, Room
+* Minor features like dedicated settings screen, Dialogs etc.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+This is the first step for [Paper](https://github.com/akshay2211/paper) in becoming a full fleadge Notes application with all the desired features
+currently this is the first phase which included a basic working good Ui App.
 
-1. Numbered
-2. List
+Screenshots
+-----------
+<img src="https://raw.githubusercontent.com/akshay2211/Paper/master/media/light.png" width="25%"/><img src="https://raw.githubusercontent.com/akshay2211/Paper/master/media/dark.png" width="25%"/>
 
-**Bold** and _Italic_ and `Code` text
+Upcoming Features
+-----------
 
-[Link](url) and ![Image](src)
-```
+#### Phase 2
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* Image Integrations
+* Doodle Screen Integration 
+* Feature to Share Notes
+* Backup and Restore Feature
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akshay2211/Paper/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Contribute
+----------
+Interested in seeing a particular feature of the Android Framework or Jetpack implemented in this
+app? 
+Please open a new [issue](https://github.com/akshay2211/paper/issues).
 
-### Support or Contact
+License
+-----------------
+Licensed under the Apache License, Version 2.0, [click here for the full license](/LICENSE).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Author & support
+-----------------
+This project was created by [Akshay Sharma](https://akshay2211.github.io/).
+
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/akshay2211)
+
+
+
